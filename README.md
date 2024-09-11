@@ -1,28 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate Flutter App developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahwale&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahwale" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahwale" alt="abdullahwale" /></a> </p>
-
-- 🔭 I’m currently working on **Table Generator Application**
-
-- 🌱 I’m currently learning **Flutter and Python**
-
-- 👨‍💻 All of my projects are available at [Github: abdullahwale](Github: abdullahwale)
-
-- 📝 I regularly write articles on [www.pakacademy79.com](www.pakacademy79.com)
-
-- 💬 Ask me about **Flutter, C++, Java**
-
-- 📫 How to reach me **abdullahwale@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-b44984141/](LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-b44984141/)
-
-- ⚡ Fun fact **I think i am a Passionate Learner & Trainer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/muhammad adbullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad adbullah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad abdiullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abdiullah" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/muhammad abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad abdullah" height="30" width="40" /></a>
