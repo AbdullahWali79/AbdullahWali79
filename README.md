@@ -2,14 +2,14 @@
 
 Welcome to the official portfolio and software services website of **Muhammad Abdullah**, designed using **Blogger.com** with a fully customized, modern UI featuring:
 
-- Bootstrap 5
-- AOS Animations
-- Font Awesome Icons
-- Dark Mode
-- Glassmorphism & Gradient Effects
-- Responsive Layouts
-- Custom Loading Screen
-- Smooth Scroll Navigation
+- Bootstrap 5  
+- AOS Animations  
+- Font Awesome Icons  
+- Dark Mode  
+- Glassmorphism & Gradient Effects  
+- Responsive Layouts  
+- Custom Loading Screen  
+- Smooth Scroll Navigation  
 
 ---
 
@@ -44,13 +44,6 @@ I’m **Muhammad Abdullah**, a Lecturer at COMSATS University, Vehari Campus. Wi
 
 Visit the live blog version:  
 👉 [We Connect Training Institute](https://weconnectvehari.blogspot.com/)
-
----
-
-## 🖼️ Screenshots
-
-![Welcome Animation](https://i.postimg.cc/0jxPH0hq/logo.png)  
-*(Sample logo used in hero section with animation)*
 
 ---
 
